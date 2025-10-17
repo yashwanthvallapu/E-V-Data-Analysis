@@ -2,9 +2,8 @@
 **Electric Vehicle Data Analysis Dashboard**
 This project presents an interactive
 dashboard that analyzes Electric Vehicle
-(EV) data across multiple dimensions. It
-includes:
-
+(EV) data across multiple dimensions. 
+It includes:
 Key Metrics: Average electric range, total
 vehicles, BEV and PHEV distribution
 Trends: Vehicles by model year
